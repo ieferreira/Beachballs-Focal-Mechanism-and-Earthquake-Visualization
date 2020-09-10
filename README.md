@@ -9,7 +9,7 @@ Area on which the Earthquakes were analyzed.
 ![Study Zone](zona_estudio.png)
 
 <p align="center">
-Important Earthquakes during 2015 in the Bucaramanga Nest (RSNC). Cities are overlain for location (Mesa de Barichara and Mesa de Los Santos, the local name for this nest is "nido sísmico de Los Santos")
+Important Earthquakes during 2015 in the Bucaramanga Nest (RSNC). Cities are overlaid for location (Mesa de Barichara and Mesa de Los Santos, the local name for this nest is "nido sísmico de Los Santos")
 </p>
 
 ![Events SGC](MapaSismosSGC2015.png)
