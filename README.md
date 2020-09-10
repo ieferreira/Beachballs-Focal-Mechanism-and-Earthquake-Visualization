@@ -20,3 +20,9 @@ Beachballs (Centered in the nest) generated with manually picked data on Seisan
 ![Beachballs Generated](Beachballs2015.png)
 
 
+<p align="center">
+Comparison between the earthquakes I picked and the Earthquakes picked by the RSNC.
+</p>
+
+![Beachballs Generated](lineaComparacionSismos.png)
+
