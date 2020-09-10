@@ -14,7 +14,7 @@ Important Earthquakes during 2015 in the Bucaramanga Nest (RSNC)
 ![Events SGC](MapaSismosSGC2015.png)
 
 <p align="center">
-Beachballs generated with manually picked data on Seisan
+Beachballs (Centered in the nest) generated with manually picked data on Seisan
 </p>
 
 ![Beachballs Generated](Beachballs2015.png)
